@@ -1,0 +1,3 @@
+pyTelegramBotAPI
+MySQL-python
+random2
