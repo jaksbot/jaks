@@ -1,4 +1,4 @@
-pyTelegramBotAPI==3.3.7
+pyTelegramBotAPI==3.3.6
 mysql-connector-python==8.0.19
 PyMySQL==0.9.3
 random2==1.0.1
